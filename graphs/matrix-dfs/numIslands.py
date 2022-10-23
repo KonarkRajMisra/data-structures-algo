@@ -47,3 +47,7 @@ exampleTwo = [
 islandTwo = Island(exampleTwo)
 print(islandOne.numIslands())
 print(islandTwo.numIslands())
+
+
+# Time: O(M*N)
+# Space: O(M*N)
